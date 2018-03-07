@@ -1,0 +1,77 @@
+.navbar {
+	margin:0;
+	border-radius:0;
+	padding: 1% 0;
+	background-color: #86af49;
+	color: #FFF;
+	border: none;
+	font-size:1.2em;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+	color: #FFF;
+	background-color: #86af49;
+}
+
+.navbar-inverse .navbar-nav li a {
+	color: #d5e1df;
+}
+
+.jumbotron {
+	color: #86af49;
+	background-color:#fefbd8;
+	padding: 5%;
+}
+
+.about-me {
+	padding: 2%;
+	border-top: 2px solid #86af49;
+	border-bottom: 2px solid #86af49;
+}
+
+.name {
+	font-family: 'Istok Web', sans-serif;
+}
+.row {
+	padding-bottom:2%;
+}
+
+.card {
+	padding:0;
+}
+
+.card-img-top {
+	width:75%;
+	height:auto;
+	margin:3% 0;
+}
+
+.card-title {
+	font-weight:bold;
+}
+
+.btn {
+	margin-bottom:3%;
+	color: #000;
+	background-color:#FFF;
+	border:2px solid #86af49;
+}
+
+#contact {
+	background-color:#fefbd8;
+	padding-top:1%;
+}
+
+footer {
+	background-color:#86af49;
+	padding:2%;
+	color:#FFF;
+}
+
+p, h3 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	font-size: 1.1em;
+}
